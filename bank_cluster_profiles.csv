@@ -1,0 +1,6 @@
+Cluster,customers,mean_age,median_balance,mean_campaign_contacts,prior_contact_share,subscription_rate_posthoc
+0,39362,41.028,432.0,2.87,0.061,0.102
+1,207,40.763,816.0,1.763,1.0,0.473
+2,1343,40.328,464.0,2.124,1.0,0.127
+3,2182,42.074,907.0,1.866,1.0,0.354
+4,2117,38.459,366.0,2.214,1.0,0.105
